@@ -107,4 +107,8 @@ WHERE MONTH(issue_date) = 11;
 
 ````
 
+After gathering all the Key Performance Indicators (KPIs) requested by the HR team using SQL, and ensuring the analysis was thorough, I proceeded to Power BI. I connected the database to Power BI and created several DAX measures to generate visualisations for the KPIs.
+
+# DAX Measures
+
 
