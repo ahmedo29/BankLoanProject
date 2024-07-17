@@ -82,6 +82,6 @@ What is the approach you will use to create a solution from start to finish?
 7. Publish the data to GitHub
 
 # SQL Queries
-I used SQL to test the data and gather the Key Performance Indicators and trends that are needed for the dashboard. I have one example below, but the rest of the code can be found in the [SQL Query Document](assets/docs/Bank Loan Report Query Document.docx)
+I used SQL to test the data and gather the Key Performance Indicators and trends that are needed for the dashboard. I have one example below, but the rest of the code can be found in the [SQL Query Document]([SQL Query Document](assets/docs/Bank%20Loan%20Report%20Query%20Document.docx)
 
 
