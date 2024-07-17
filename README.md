@@ -59,4 +59,29 @@ CHARTS
 
 * Metrics to be shown: 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received.'
 
+Dashboard 3: DETAILS
+
+GRID
+
+We need a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
+
+Objective:
+
+The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
+
+# Development
+## Pseudocode
+What is the approach you will use to create a solution from start to finish?
+
+1. Get the data
+2. Explore and Load the data into SQL
+3. Test the data with SQL
+4. Visualise the data in Power Bi
+5. Generate the findings based on the insights
+6. Write the documentation
+7. Publish the data to GitHub
+
+# SQL Queries
+I used SQL to test the data and gather the Key Performance Indicators and trends that are needed for the dashboard. I have one example below, but the rest of the code can be found in the [SQL Query Document](assets/docs/Bank Loan Report Query Document.docx)
+
 
