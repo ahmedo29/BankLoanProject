@@ -110,5 +110,23 @@ WHERE MONTH(issue_date) = 11;
 After gathering all the Key Performance Indicators (KPIs) requested by the HR team using SQL, and ensuring the analysis was thorough, I proceeded to Power BI. I connected the database to Power BI and created several DAX measures to generate visualisations for the KPIs.
 
 # DAX Measures
+To derive meaningful insights from my data and effectively communicate these findings through visualisations, I created several measures in Power BI. Measures are powerful calculations that enable complex data analysis, allowing me to uncover trends, patterns, and key performance indicators. By leveraging these measures, I can build dynamic and interactive visualisations that provide a deeper understanding of the data. I had to create 28 DAX Measures, which can be found in the [DAX Measures Document](assets/docs/DAX%Measures.docx), I have included a few examples below:
 
-
+### Total Loan Applications
+```sql
+Total Loan Applications = COUNT(bank_loan_data[id])
+```
+### Total Loaned Amount
+```sql
+Total Loaned Amount = SUM(bank_loan_data[loan_amount])
+```
+### Total Amount Repaid
+```sql
+Total Amount Repaid = SUM(bank_loan_data[total_payment])
+```
+# Visualisation
+## Results
+The dashboard looks as below:
+![Dashboard](assets/images/SUMMARY.png)
+![Dashboard](assets/images/OVERVIEW.png)
+![Dashboard](assets/images/DETAILS.png)
