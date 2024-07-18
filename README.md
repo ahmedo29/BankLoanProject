@@ -130,3 +130,74 @@ The dashboard looks as below:
 ![Dashboard](assets/images/SUMMARY.png)
 ![Dashboard](assets/images/OVERVIEW.png)
 ![Dashboard](assets/images/DETAILS.png)
+
+# Discovery
+## What did we learn?
+
+## SUMMARY Dashboard
+We discovered that:
+1. The bank has given out 38.6K Loans
+2. Loaned out $435.8M and Recieved $473.1M in repayments, meaning a profit of $37.3M
+3. The average interest rate is 12%
+4. The average DTI is 13.3%
+5. 86.2% of loans are considered 'Good Loans', meaning they have either been fully paid or are currently being paid
+6. The bank has loaned out $370.2M, and have recieved $435.8M, resulting in a profit of $65.6M for 'Good Loans'
+7. 13.8% of loans are considered 'Bad Loans', meaning that the people have stopped paying or it has been charged off
+8. The bank has loaned out $65.5M and have been repaid $37.3M, resulting in a $28.2M Loss for 'Bad Loans'
+
+## OVERVIEW Dashboard
+### Total Loan Applications
+1. The number of loan applications Month on Month increases, with January and February being the lowest at 2.3 applications, and December being the highest with 4.3K applications
+2. California (6,894), New York (3,701) and Texas (2,664) are the top three states
+3. Idaho (6), Mississippi (19) and Tennessee (17) are the bottom three states
+4. People employed for over 10 years are the banks highest customers, requestion 8.9K loans
+5. Debt Consolidation is the most common reason for a loan, with 18,000 people getting a loan for it
+6. Medical is the least common reason for a loan, with less than 1,000 people getting a loan for it
+7. 36 Month Term for loan repayments is the most popular, with 73.2% of people opting for it
+8. Home Renters are the most common people applying for a loan
+
+### Total Loan Repaid
+1. Month on Month the total amount repaid increased, with January being $28M repaid, and December being $58M
+2. California, New York and Texas are the top three states in terms of amount repaid
+3. Idaho, Mississippi and Tennessee are the bottom three states in terms of repayments
+4. People employed for over 10 years have repaid $125M worth of loans
+5. People who have a mortgage have repaid the most amount ($238.47M)
+
+### Total Loaned Amount
+1. Month on Month the total loaned amount increased, with January being $25M repaid, and December being $54M
+2. California, New York and Texas are the top three states who apply for loans
+3. Idaho, Mississippi and Tennessee are the bottom three states hwho apply for loans
+4. People employed for over 10 years have asked for the most loans ($116M)
+5. 230M was loaned for the purpose of debt conssolidation
+6. $219.33M was loaned to people who have a mortgage
+
+## Recommendations
+### Bad Loans
+Based on the analysis indicating that 13.8% of loans are considered 'Bad Loans' and the bank has suffered a significant financial loss due to these non-performing loans, here are some recommendations to the bank to mitigate future risks and improve financial health:
+
+1. Enhanced Credit Assessment Procedures
+* Recommendation: Strengthen the credit assessment process to better evaluate borrowers' creditworthiness. This could involve more stringent checks on credit scores, income verification, and employment stability.
+* Implementation: Introduce additional layers of verification and leverage advanced analytics to predict the likelihood of loan default.
+2. Risk-Based Pricing
+* Recommendation: Implement risk-based pricing strategies where interest rates are adjusted according to the risk profile of the borrower.
+* Implementation: Higher-risk borrowers would face higher interest rates, compensating the bank for the increased risk and potentially deterring high-risk borrowing.
+3. Proactive Monitoring and Early Intervention
+* Recommendation: Set up a system for early detection of potential loan defaults through regular monitoring of borrowers' financial health.
+* Implementation: Use automated systems to flag early warning signs such as missed payments, and engage with borrowers early to discuss repayment options.
+
+Implementing these recommendations could significantly reduce the number of 'bad loans' in the future, thereby helping the bank minimise financial losses and enhance its overall profitability.
+
+### Bottom Three States (Loan Applications)
+To increase loan applications from Idaho, Mississippi, and Tennessee, the following strategies could be implemented:
+
+1. Targeted Marketing Campaigns
+* Recommendation: Develop marketing campaigns specifically tailored to these states, highlighting the benefits and unique features of the bank's loan products.
+* Implementation: Use local media channels, social media platforms, and community events to raise awareness and engage with potential borrowers.
+2. Customised Loan Products
+* Recommendation: Design loan products that cater to the specific needs and preferences of residents in these states.
+* Implementation: Conduct market research to understand the unique financial needs and develop products such as agricultural loans, small business loans, or low-interest personal loans.
+3. Incentives and Promotions
+* Recommendation: Offer incentives such as lower interest rates, reduced fees, or cashback offers to attract new loan applicants.
+* Implementation: Launch limited-time promotions and special offers targeted at residents of Idaho, Mississippi, and Tennessee.
+
+Implementing these recommendatiosn could significantly increase the number of loan applications in these states, increasing the number of customers for the bank. 
